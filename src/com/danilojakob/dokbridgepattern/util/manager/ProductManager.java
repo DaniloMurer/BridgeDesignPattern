@@ -12,7 +12,7 @@ import java.util.List;
  */
 public class ProductManager {
 
-    private static List<Product> products_;
+    private List<Product> products_;
 
     public ProductManager() { products_ = new ArrayList<>(); }
 
